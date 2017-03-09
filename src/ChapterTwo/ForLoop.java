@@ -26,5 +26,11 @@ public class ForLoop {
 //        }
 
 
+//        do {
+//            int z = 1;
+//            System.out.print(z++ + " ");
+//        } while(z <= 10);
+
+
     }
 }

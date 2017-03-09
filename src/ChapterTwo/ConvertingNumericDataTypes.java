@@ -43,5 +43,10 @@ public class ConvertingNumericDataTypes {
 
         doubleVariable1 = doubleVariable1 * doubleVariable2;
 
+        intVariable1 = byteVariable1;
+        longVariable1 = intVariable1;
+        floatVariable1 = intVariable1;
+        doubleVariable1 = floatVariable1;
+
     }
 }

@@ -51,7 +51,6 @@ public class Switch {
                 System.out.println("12");
                 break;
         }
-
     }
 
 //    private int getSortOrder(String firstName, final String lastName) {
